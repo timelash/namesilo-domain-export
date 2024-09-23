@@ -1,0 +1,11 @@
+A simple program to grab a lit of domain names that you own 
+
+from Namesilo (via API), and
+
+save them (with expiry date) to a .XLSM file.
+
+Use:
+
+* Grab your API and put it into a file called API.key
+* Run namesilo_export.py
+ 
